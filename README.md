@@ -1,5 +1,8 @@
 #Pokemon api demo project to view pokemon and their details.
 
+#Loom Video:- 
+https://www.loom.com/share/b05c4d0aedb649e5ba6b02005527f970
+
 #Tech Stack: React,Material UI
 
 ![image](https://user-images.githubusercontent.com/108413276/183478042-4c2331fc-56f5-4c1e-82bc-60257c8686ea.png)
